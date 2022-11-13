@@ -111,8 +111,11 @@ def get_unet_model(img_size):
     
     # --- Encoder ---
     # first conv layer
-    conv_layer_1_1 = Conv3D(10, (1, 1, 3), activation='sigmoid', padding='valid')(inputs)
-    conv_layer_1_2 = Conv3D(20, (1, 1, 3), activation='sigmoid', padding='valid')(conv_layer_1_1)
+    inputs_pad = tf.keras.layers.ZeroPadding3D(padding=(1, 1, 0), data_format=None)(inputs)
+    print(inputs_pad.shape)
+    conv_layer_1_1 = Conv3D(10, (3, 3, 3), activation='sigmoid', padding='valid')(inputs_pad)
+    conv_layer_1_1 = tf.keras.layers.ZeroPadding3D(padding=(1, 1, 0), data_format=None)(conv_layer_1_1)
+    conv_layer_1_2 = Conv3D(20, (3, 3, 3), activation='sigmoid', padding='valid')(conv_layer_1_1)
     conv_layer_1_3 = Conv3D(40, (3, 3, 1), activation='sigmoid', padding='same')(conv_layer_1_2)
     
     conv_layer_2_1 = Conv3D(20, (3, 3, 1), activation='sigmoid', padding='same')(conv_layer_1_3)
@@ -121,7 +124,6 @@ def get_unet_model(img_size):
     
     model = keras.Model(inputs, outputs)
     return model
-
 
 
 # train_X_0, train_X_1, train_X_2, train_X_3 = np.load('./train_X_0.npy'), np.load('./train_X_1.npy'), np.load('./train_X_2.npy'), np.load('./train_X_3.npy')
@@ -154,13 +156,13 @@ if __name__ == '__main__':
     keras.backend.clear_session()
     model = get_unet_model((787, 422))
 
-    model.compile(optimizer='adam', loss=tf.keras.losses.MeanAbsolutePercentageError()) # tf.keras.optimizers.Adadelta(learning_rate=0.5, name="Adadelta")
+    model.compile(optimizer=tf.keras.optimizers.Adadelta(learning_rate=0.5, name="Adadelta"), loss=tf.keras.losses.MeanAbsolutePercentageError())
     
     filename='log_tw5_sigmoid.csv'
     history_logger=tf.keras.callbacks.CSVLogger(filename, separator=",", append=True)
 
     # Train the model, doing validation at the end of each epoch.
-    epochs = 5
+    epochs = 25
     model.fit(train_gen, validation_data=valid_gen, epochs=epochs, callbacks=[history_logger]) # validation_data=valid_gen
     print('Model is saving...')
     model.save("./model_tw5_sigmoid.h5")
