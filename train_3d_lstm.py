@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from tensorflow.keras.layers import Input, Conv2D, Conv3D, Concatenate, MaxPooling2D, UpSampling2D, ConvLSTM2D
+from tensorflow.keras.layers import Input, Conv2D, Conv3D, Concatenate, MaxPooling2D, UpSampling2D, ConvLSTM2D, BatchNormalization
 import keras 
 from tensorflow import keras
 import tensorflow as tf
@@ -92,8 +92,10 @@ def get_3d_lstm(img_size):
     # first conv layer
     # inputs_pad = tf.keras.layers.ZeroPadding3D(padding=(1, 1, 0), data_format=None)(inputs)
     conv_layer_1_1 = ConvLSTM2D(3, (3, 3), activation='relu', padding='same', return_sequences=True)(inputs)
+    conv_layer_1_1 = BatchNormalization()(conv_layer_1_1)
     conv_layer_1_2 = tf.keras.layers.ZeroPadding3D(padding=(0, 1, 1), data_format=None)(conv_layer_1_1)
-    conv_layer_1_3 = Conv3D(7, (3, 3, 3), activation='relu', padding='valid')(conv_layer_1_2)
+    
+    conv_layer_1_3 = Conv3D(5, (3, 3, 3), activation='relu', padding='valid')(conv_layer_1_2)
     # conv_layer_1_3 = Conv3D(40, (3, 3, 1), activation='relu', padding='same')(conv_layer_1_2)
     
     # conv_layer_2_1 = Conv3D(20, (3, 3, 1), activation='relu', padding='same')(conv_layer_1_2)
@@ -142,12 +144,12 @@ if __name__ == '__main__':
 
     model.compile(optimizer=tf.keras.optimizers.Adadelta(learning_rate=0.5, name="Adadelta"), loss=tf.keras.losses.MeanAbsolutePercentageError())
     
-    filename='log_3d_lstm.csv'
+    filename='log_3d_lstm_bn.csv'
     history_logger=tf.keras.callbacks.CSVLogger(filename, separator=",", append=True)
     early_stopping = tf.keras.callbacks.EarlyStopping(monitor='val_loss', mode='min', patience=2)
     # Train the model, doing validation at the end of each epoch.
     epochs = 15
     model.fit(train_gen, validation_data=valid_gen, epochs=epochs, callbacks=[history_logger, early_stopping]) # validation_data=valid_gen
     print('Model is saving...')
-    model.save("./3d_lstm.h5")
+    model.save("./3d_lstm_bn.h5")
 
