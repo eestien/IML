@@ -1,0 +1,3146 @@
+
+[
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "5363164b-fbdf-47d3-ba15-a1e20d41bcfb",
+    "serviceTimeMs": 26.239857
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt0178516/",
+      "image": {
+        "height": 1123,
+        "id": "/title/tt0178516/images/rm786182912",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjYzMDRiMDctNmFhOS00NmEyLTk3ZTQtNzZmOWYxYTQxYzRmXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+        "width": 800
+      },
+      "title": "Goliath and the Rebel Slave",
+      "titleType": "movie",
+      "year": 1963
+    },
+    {
+      "id": "/title/tt0172346/",
+      "image": {
+        "height": 350,
+        "id": "/title/tt0172346/images/rm23668736",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGU0NTRlNTAtNWE5Ny00MTBkLWE1YWUtMzM2MDE3Y2I0YjlhXkEyXkFqcGdeQXVyNDYzMDMxOTc@._V1_.jpg",
+        "width": 188
+      },
+      "title": "Fantabulous Inc.",
+      "titleType": "movie",
+      "year": 1968
+    },
+    {
+      "id": "/title/tt0059672/",
+      "image": {
+        "height": 863,
+        "id": "/title/tt0059672/images/rm787355648",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDUwMjk2YmQtNjIwMy00MTY0LWJkMWUtNGY0ODBjNjJkZjYwXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg",
+        "width": 567
+      },
+      "title": "Samson and the Mighty Challenge",
+      "titleType": "movie",
+      "year": 1964
+    },
+    {
+      "id": "/title/tt1663920/",
+      "image": {
+        "height": 1053,
+        "id": "/title/tt1663920/images/rm1978571521",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjgxNGVlZWItYjE0OC00ODUzLTg5NWUtNTY3ZDU3OWFiNzMwXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 743
+      },
+      "title": "Kamen Rider W Forever: A to Z/The Gaia Memories of Fate",
+      "titleType": "movie",
+      "year": 2010
+    },
+    {
+      "id": "/title/tt0062964/",
+      "image": {
+        "height": 882,
+        "id": "/title/tt0062964/images/rm1295509248",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzhiMWQ1NTUtMGYxYS00MWM3LWJkZjQtNjdlODc5NmRhNTA0XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+        "width": 600
+      },
+      "title": "Fenomenal and the Treasure of Tutankamen",
+      "titleType": "movie",
+      "year": 1968
+    },
+    {
+      "id": "/title/tt0057720/",
+      "image": {
+        "height": 422,
+        "id": "/title/tt0057720/images/rm247341312",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGU5YmI4YjMtZmJhNS00NDcxLWE0ZGYtZjAwNTI0M2FiODJjXkEyXkFqcGdeQXVyNzg3ODM4NTE@._V1_.jpg",
+        "width": 296
+      },
+      "title": "Zorro and the Three Musketeers",
+      "titleType": "movie",
+      "year": 1963
+    },
+    {
+      "id": "/title/tt0074101/",
+      "image": {
+        "height": 1315,
+        "id": "/title/tt0074101/images/rm710552576",
+        "url": "https://m.media-amazon.com/images/M/MV5BODIxM2I3MWQtYzg4ZS00YzdmLTk4NWEtZTkzNGEwOWM1ZDg5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+        "width": 571
+      },
+      "title": "Who's Afraid of Zorro",
+      "titleType": "movie",
+      "year": 1975
+    },
+    {
+      "id": "/title/tt0070831/",
+      "image": {
+        "height": 515,
+        "id": "/title/tt0070831/images/rm440264448",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2M4YThiMjAtYTk0Yi00NTU2LTk1ZTQtYjVmYzNmYjQzN2EyXkEyXkFqcGdeQXVyMjExMDIwNzA@._V1_.jpg",
+        "width": 368
+      },
+      "title": "Three Supermen of the West",
+      "titleType": "movie",
+      "year": 1973
+    }
+  ],
+  "totalMatches": 8
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "00ea9c5b-83f2-47dc-94d6-e395bafebf01",
+    "serviceTimeMs": 36.877659
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt8716268/",
+      "image": {
+        "height": 976,
+        "id": "/title/tt8716268/images/rm2414713601",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQyOWYxZDEtMjI3Mi00OGVmLWE5MzgtNTBlNmFmYjMyZGE0XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 746
+      },
+      "title": "Kamen Rider Zi-O",
+      "titleType": "tvSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt1608208/",
+      "image": {
+        "height": 760,
+        "id": "/title/tt1608208/images/rm66001152",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmJmYTZiNmUtYWM5NC00MjViLWFjNDUtNzYyNTQyODRhMTQxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 552
+      },
+      "title": "Dragon Ball: Son Goku Fights, Son Goku Wins",
+      "titleType": "movie",
+      "year": 1990
+    },
+    {
+      "id": "/title/tt0997404/",
+      "image": {
+        "height": 1016,
+        "id": "/title/tt0997404/images/rm1240308481",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2IxYjg1NDUtMGJkZi00MGYxLThjMmMtMTcxYTMwODI2OGUyXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 746
+      },
+      "title": "Kamen Rider Den-O",
+      "titleType": "tvSeries",
+      "year": 2007
+    },
+    {
+      "id": "/title/tt0099917/",
+      "image": {
+        "height": 750,
+        "id": "/title/tt0099917/images/rm1127948032",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzRhYjNmZDAtM2Q4OS00M2E0LWJmMGItZWIwOGNkYmE4MDIyXkEyXkFqcGdeQXVyNjUwMTE5MjI@._V1_.jpg",
+        "width": 530
+      },
+      "title": "Kamen Rider ZO",
+      "titleType": "movie",
+      "year": 1993
+    },
+    {
+      "id": "/title/tt10863950/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt10863950/images/rm2841095425",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzEyNWJiOTItMmJkNS00ZDJmLTg0MGQtMDQ5YjQ0NDY1NzM1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "width": 566
+      },
+      "title": "Kamen Rider Zi-O Next Time: Geiz, Majesty",
+      "titleType": "movie",
+      "year": 2020
+    },
+    {
+      "id": "/title/tt1210347/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt1210347/images/rm1491180289",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E0OWYxZTEtOWZlMi00MTBkLTlhYzUtOGFkZWE1OWI5Yjc5XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 1288
+      },
+      "title": "Kamen Rider Den-O: I'm Born!",
+      "titleType": "movie",
+      "year": 2007
+    },
+    {
+      "id": "/title/tt10437378/",
+      "image": {
+        "height": 2200,
+        "id": "/title/tt10437378/images/rm4190734337",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDcxZGI5YzItMDk4NS00ZWYwLTg3NjItZjQwYmQ4MGQ3MWU4XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 1557
+      },
+      "title": "Kamen Rider Zi-O: Over Quartzer",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt1816603/",
+      "image": {
+        "height": 1444,
+        "id": "/title/tt1816603/images/rm622304001",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmNiYjU5MWItNDc5ZS00NTFlLTk0NTAtZTliYTgzYjc4MWEwXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 1024
+      },
+      "title": "Kamen Rider OOO, Den-O, & All Riders: Let's Go Kamen Riders",
+      "titleType": "movie",
+      "year": 2011
+    },
+    {
+      "id": "/title/tt13681746/",
+      "image": {
+        "height": 702,
+        "id": "/title/tt13681746/images/rm834980353",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjA2MWUzM2EtNzUzOC00OTk1LWEzZTktYWY4MmNmNTVjZTU1XkEyXkFqcGdeQXVyNzkyMDA5MTc@._V1_.jpg",
+        "width": 496
+      },
+      "title": "Rider Time: Kamen Rider Decade vs. Zi-O",
+      "titleType": "tvMiniSeries",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt1301995/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt1301995/images/rm837786369",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRmY2NjZGUtMjcxNC00MDFkLWJjMTMtMDlmOGEzOGU1MmNhXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 1064
+      },
+      "title": "Farewell Kamen Rider Den-O: Final Countdown",
+      "titleType": "movie",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt1675293/",
+      "image": {
+        "height": 1378,
+        "id": "/title/tt1675293/images/rm3320354817",
+        "url": "https://m.media-amazon.com/images/M/MV5BODdkZmZmM2EtN2NmYi00NDJmLWE2ZjEtNGQ2ZjNkM2RiOWYyXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 977
+      },
+      "title": "Kamen Rider Super Den-O Trilogy: Episode Yellow - Treasure de End Pirates",
+      "titleType": "movie",
+      "year": 2010
+    },
+    {
+      "id": "/title/tt4000116/",
+      "image": {
+        "height": 566,
+        "id": "/title/tt4000116/images/rm1062410752",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQ4NDgwYTktNzg5ZC00ZTBmLWJmNmQtZGY5ZmVkOWIyN2JhXkEyXkFqcGdeQXVyMjM5ODMxODc@._V1_.jpg",
+        "width": 400
+      },
+      "title": "Garo: Yami o Terasu Mono",
+      "titleType": "tvSeries",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt1217251/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt1217251/images/rm1995020289",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjViMDUzNDYtY2I3My00YTRiLWJiM2MtNDEyZGFhMGQ1MmFkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 1278
+      },
+      "title": "Kamen Rider Den-O & Kiva: Climax Deka",
+      "titleType": "movie",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt1663158/",
+      "image": {
+        "height": 1378,
+        "id": "/title/tt1663158/images/rm4209547265",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjcyZDNiNzUtYjJmNS00MGMyLWJkZTQtZmY1MTIzYTRlYmVjXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 973
+      },
+      "title": "Kamen Rider Super Den-O Trilogy: Episode Red - Zero's Star Twinkle",
+      "titleType": "movie",
+      "year": 2010
+    },
+    {
+      "id": "/title/tt1285118/",
+      "image": {
+        "height": 1063,
+        "id": "/title/tt1285118/images/rm2699991809",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzVmNmU0NjItMTlmZC00MGRmLTgwOGEtY2ExMjBlMDg3ZDQzXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 762
+      },
+      "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
+      "titleType": "movie",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt1424059/",
+      "image": {
+        "height": 1378,
+        "id": "/title/tt1424059/images/rm1303500801",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzViZDgxMDEtMzA2NS00NzE1LWE3MjAtZjM1M2MxNGVlNWYyXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 979
+      },
+      "title": "Super Kamen Rider Den-O & Decade Neo Generations: The Onigashima Battleship",
+      "titleType": "movie",
+      "year": 2009
+    },
+    {
+      "id": "/title/tt1670661/",
+      "image": {
+        "height": 1378,
+        "id": "/title/tt1670661/images/rm3337132033",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTdiYjk2MWYtNzBhMy00ZjRmLWJmMjYtZWM5MTQ2NjlhMmUyXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+        "width": 972
+      },
+      "title": "Kamen Rider Super Den-O Trilogy: Episode Blue - The Dispatched Imagin is Newtral",
+      "titleType": "movie",
+      "year": 2010
+    },
+    {
+      "id": "/title/tt0459422/",
+      "image": {
+        "height": 359,
+        "id": "/title/tt0459422/images/rm3761572096",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmFkZTVlZGEtZGE2OC00NmQ4LWIwNGMtYTMyNmQxZjE5NGU4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 256
+      },
+      "title": "Kabuto-O Beetle",
+      "titleType": "movie",
+      "year": 2005
+    },
+    {
+      "id": "/title/tt0241474/",
+      "image": {
+        "height": 466,
+        "id": "/title/tt0241474/images/rm2818454272",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWI3YWVjOTMtNjMzZS00ODgyLThlOTgtMGQ1Yjc5YmFiZGFlXkEyXkFqcGdeQXVyMjU4MzEwNTU@._V1_.jpg",
+        "width": 350
+      },
+      "title": "Gaudêncio, o Centauro dos Pampas",
+      "titleType": "movie",
+      "year": 1971
+    }
+  ],
+  "totalMatches": 19
+  },
+
+  {
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "0daab87f-2adf-418e-a7f8-b2c4cb816b03",
+    "serviceTimeMs": 50.374315
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt13623148/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt13623148/images/rm2565801985",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMzODFiNjgtZmQwZC00YmFmLWI5MTQtYjc1YjQzN2Y4NjgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "width": 1383
+      },
+      "title": "I Am Groot",
+      "titleType": "tvSeries",
+      "year": 2022
+    },
+    {
+      "id": "/title/tt9446688/",
+      "image": {
+        "height": 2227,
+        "id": "/title/tt9446688/images/rm3889608961",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWM5YzhmNGMtZTI4Ny00MGM4LThkYjAtMDIyMTEwNTQyZmQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 1500
+      },
+      "title": "I Am Not Okay with This",
+      "titleType": "tvSeries",
+      "year": 2020
+    },
+    {
+      "id": "/title/tt10345590/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt10345590/images/rm3408955393",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2MwODIyZjYtMDYzMy00MjBhLWFmODItYTQ3YzE4NzhkODI2XkEyXkFqcGdeQXVyMzA4MDA0Mjc@._V1_.jpg",
+        "width": 793
+      },
+      "title": "How I Became a Super Hero",
+      "titleType": "movie",
+      "year": 2020
+    },
+    {
+      "id": "/title/tt0088269/",
+      "image": {
+        "height": 600,
+        "id": "/title/tt0088269/images/rm1471446528",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2MyYmYwZDktZjBhZS00NTBmLWJkYjgtYjAyYTMwZWQ0NGYwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+        "width": 423
+      },
+      "title": "I Love Maria",
+      "titleType": "movie",
+      "year": 1988
+    },
+    {
+      "id": "/title/tt0061646/",
+      "image": {
+        "height": 1077,
+        "id": "/title/tt0061646/images/rm3573230336",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTAyMTYxNDktNDRhZS00OWM2LWE5ZGItOWQ2ZWFmMjU0OTZlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+        "width": 567
+      },
+      "title": "The Three Fantastic Supermen",
+      "titleType": "movie",
+      "year": 1967
+    },
+    {
+      "id": "/title/tt6869782/",
+      "image": {
+        "height": 1024,
+        "id": "/title/tt6869782/images/rm1130706176",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWViNjE0NTItYTRjOC00MTkwLWFhMjItNmY4YzI5ZTc3ZGQ5XkEyXkFqcGdeQXVyNTU3NDIzMDI@._V1_.jpg",
+        "width": 717
+      },
+      "title": "I peggiori",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt0066908/",
+      "image": {
+        "height": 1100,
+        "id": "/title/tt0066908/images/rm3942650368",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2RmZDFlMGEtNmNhOC00NDdlLTk3ZDMtNGNjNWEyZjcyYjNiXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+        "width": 767
+      },
+      "title": "Three Supermen in the Jungle",
+      "titleType": "movie",
+      "year": 1970
+    },
+    {
+      "id": "/title/tt0057720/",
+      "image": {
+        "height": 422,
+        "id": "/title/tt0057720/images/rm247341312",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGU5YmI4YjMtZmJhNS00NDcxLWE0ZGYtZjAwNTI0M2FiODJjXkEyXkFqcGdeQXVyNzg3ODM4NTE@._V1_.jpg",
+        "width": 296
+      },
+      "title": "Zorro and the Three Musketeers",
+      "titleType": "movie",
+      "year": 1963
+    },
+    {
+      "id": "/title/tt2129949/",
+      "image": {
+        "height": 1238,
+        "id": "/title/tt2129949/images/rm1984314624",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjVlYjU5ZTQtZGFmMi00ZGNmLWIxNzktYjZhNWMxMDIzN2ExXkEyXkFqcGdeQXVyMDgwMDg5OQ@@._V1_.jpg",
+        "width": 860
+      },
+      "title": "Capitan Basilico 2 - I Fantastici 4+4",
+      "titleType": "movie",
+      "year": 2011
+    },
+    {
+      "id": "/title/tt0070831/",
+      "image": {
+        "height": 515,
+        "id": "/title/tt0070831/images/rm440264448",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2M4YThiMjAtYTk0Yi00NTU2LTk1ZTQtYjVmYzNmYjQzN2EyXkEyXkFqcGdeQXVyMjExMDIwNzA@._V1_.jpg",
+        "width": 368
+      },
+      "title": "Three Supermen of the West",
+      "titleType": "movie",
+      "year": 1973
+    },
+    {
+      "id": "/title/tt11171030/",
+      "title": "I Am a Superhero",
+      "titleType": "tvSeries"
+    },
+    {
+      "disambiguation": "II",
+      "id": "/title/tt21277160/",
+      "proOnly": true,
+      "title": "Jupiter (I)",
+      "titleType": "movie"
+    }
+  ],
+  "totalMatches": 12
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "0f6944cf-02fa-4041-adcd-abfe9137ff92",
+    "serviceTimeMs": 22.783859
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt6671574/",
+      "image": {
+        "height": 3000,
+        "id": "/title/tt6671574/images/rm2091145216",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTJjMWYzYWMtYWIyMi00ZDY5LTk5Y2EtY2JjYmIxM2IxZDZiXkEyXkFqcGdeQXVyNTg5OTIyNTQ@._V1_.jpg",
+        "width": 2000
+      },
+      "title": "Doc-U-Mentally",
+      "titleType": "movie",
+      "year": 2016
+    }
+  ],
+  "totalMatches": 1
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "0ad69ed3-6d9f-4e1c-bb47-6848501cdca1",
+    "serviceTimeMs": 43.107459
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt0917551/",
+      "image": {
+        "height": 555,
+        "id": "/title/tt0917551/images/rm796850433",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEwOGE3NzEtNjkzOS00YmM2LWJkM2QtNjUzNzM5ZjlkNDk2XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_.jpg",
+        "width": 370
+      },
+      "title": "The Mighty B!",
+      "titleType": "tvSeries",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt2363221/",
+      "image": {
+        "height": 2560,
+        "id": "/title/tt2363221/images/rm1391266304",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1M2I5OTMtZWU1Ny00MTFjLWJkNjctNTgyYzM2MWJiMGIxXkEyXkFqcGdeQXVyNjU4MTU3MzI@._V1_.jpg",
+        "width": 1440
+      },
+      "title": "Holy Musical B@man!",
+      "titleType": "tvMovie",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt9890758/",
+      "image": {
+        "height": 955,
+        "id": "/title/tt9890758/images/rm3511250176",
+        "url": "https://m.media-amazon.com/images/M/MV5BNGViYTgzNzYtZTQwYS00ZmQzLWE2MDktOTY1ZTJjNDM5NzBlXkEyXkFqcGdeQXVyNzkyMDA5MTc@._V1_.jpg",
+        "width": 725
+      },
+      "title": "Ultraman R/B: Select! The Crystal of Bond",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt8333100/",
+      "image": {
+        "height": 793,
+        "id": "/title/tt8333100/images/rm264062720",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjgyMDUyMDYtOGE2ZS00Y2U3LWFhMDEtNzRjMmJlM2FkNTMxXkEyXkFqcGdeQXVyNzkyMDA5MTc@._V1_.jpg",
+        "width": 606
+      },
+      "title": "Ultraman R/B",
+      "titleType": "tvSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt5875708/",
+      "image": {
+        "height": 2304,
+        "id": "/title/tt5875708/images/rm3207075072",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdhZjM0NGYtMjgxOC00NTkxLTg1ZTEtMjZhNDhjYjZjMjFlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_.jpg",
+        "width": 1536
+      },
+      "title": "B@ (Batman Parody Film)",
+      "titleType": "movie",
+      "year": 2016
+    }
+  ],
+  "totalMatches": 5
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "dbff2452-8d92-4b7a-8f21-33afeea6eaa4",
+    "serviceTimeMs": 16.834663
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt5814534/",
+      "image": {
+        "height": 3000,
+        "id": "/title/tt5814534/images/rm3825243393",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+        "width": 2025
+      },
+      "title": "Spies in Disguise",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt0283226/",
+      "image": {
+        "height": 1204,
+        "id": "/title/tt0283226/images/rm605607937",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZhYTUyZmItN2VkOS00MWI4LTlmNjMtZDQyM2Q5MWE5NzdjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "width": 903
+      },
+      "title": "Totally Spies!",
+      "titleType": "tvSeries",
+      "year": 2001
+    }
+  ],
+  "totalMatches": 2
+},
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "e476869d-5c76-4f53-9737-bd4d9a096bf0",
+    "serviceTimeMs": 42.91047
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "1",
+  "results": [
+    {
+      "id": "/title/tt1877830/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt1877830/images/rm2474894849",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+        "width": 1382
+      },
+      "title": "The Batman",
+      "titleType": "movie",
+      "year": 2022
+    },
+    {
+      "id": "/title/tt0103359/",
+      "image": {
+        "height": 1170,
+        "id": "/title/tt0103359/images/rm3096602624",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_.jpg",
+        "width": 780
+      },
+      "title": "Batman: The Animated Series",
+      "titleType": "tvSeries",
+      "year": 1992
+    },
+    {
+      "id": "/title/tt0372784/",
+      "image": {
+        "height": 3833,
+        "id": "/title/tt0372784/images/rm2827249920",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 2590
+      },
+      "title": "Batman Begins",
+      "titleType": "movie",
+      "year": 2005
+    },
+    {
+      "id": "/title/tt2975590/",
+      "image": {
+        "height": 2700,
+        "id": "/title/tt2975590/images/rm2302675456",
+        "url": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1823
+      },
+      "title": "Batman v Superman: Dawn of Justice",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt0096895/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt0096895/images/rm4292478977",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_.jpg",
+        "width": 1004
+      },
+      "title": "Batman",
+      "titleType": "movie",
+      "year": 1989
+    },
+    {
+      "id": "/title/tt0103776/",
+      "image": {
+        "height": 1630,
+        "id": "/title/tt0103776/images/rm2011378432",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+        "width": 1100
+      },
+      "title": "Batman Returns",
+      "titleType": "movie",
+      "year": 1992
+    },
+    {
+      "id": "/title/tt0118688/",
+      "image": {
+        "height": 2029,
+        "id": "/title/tt0118688/images/rm398858240",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_.jpg",
+        "width": 1363
+      },
+      "title": "Batman & Robin",
+      "titleType": "movie",
+      "year": 1997
+    },
+    {
+      "id": "/title/tt0112462/",
+      "image": {
+        "height": 2961,
+        "id": "/title/tt0112462/images/rm1092312064",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 2001
+      },
+      "title": "Batman Forever",
+      "titleType": "movie",
+      "year": 1995
+    },
+    {
+      "id": "/title/tt0059968/",
+      "image": {
+        "height": 2024,
+        "id": "/title/tt0059968/images/rm4039165440",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_.jpg",
+        "width": 1572
+      },
+      "title": "Batman",
+      "titleType": "tvSeries",
+      "year": 1966
+    },
+    {
+      "id": "/title/tt0106364/",
+      "image": {
+        "height": 889,
+        "id": "/title/tt0106364/images/rm1684348160",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTRiMWM3MGItNjAxZC00M2E3LThhODgtM2QwOGNmZGU4OWZhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+        "width": 600
+      },
+      "title": "Batman: Mask of the Phantasm",
+      "titleType": "movie",
+      "year": 1993
+    },
+    {
+      "id": "/title/tt4116284/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt4116284/images/rm2772370432",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_.jpg",
+        "width": 1012
+      },
+      "title": "The Lego Batman Movie",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt14681596/",
+      "image": {
+        "height": 2280,
+        "id": "/title/tt14681596/images/rm3025520129",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzM5MjBmZmYtMGVkNS00NzIxLTgzNDgtYjMwZmRkNzdhZGM3XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1284
+      },
+      "title": "Batman: Caped Crusader",
+      "titleType": "tvSeries",
+      "year": 2023
+    },
+    {
+      "id": "/title/tt0118266/",
+      "image": {
+        "height": 1363,
+        "id": "/title/tt0118266/images/rm1734892800",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2JkYjE4MWYtMGJlZC00OWVhLWJlMmUtNGQzYjM0ZDUxNGI2XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "The New Batman Adventures",
+      "titleType": "tvSeries",
+      "year": 1997
+    },
+    {
+      "id": "/title/tt4853102/",
+      "image": {
+        "height": 798,
+        "id": "/title/tt4853102/images/rm926365952",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 532
+      },
+      "title": "Batman: The Killing Joke",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt18689424/",
+      "image": {
+        "height": 1683,
+        "id": "/title/tt18689424/images/rm3207732481",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I4OTllM2MtMWVhNC00MjkzLWJlMDUtN2FhMGQ2ZGVjMjllXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1146
+      },
+      "title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt0147746/",
+      "image": {
+        "height": 1541,
+        "id": "/title/tt0147746/images/rm2025787393",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWJhNjA4YTAtODBlMS00NjIzLThhZWUtOGYxMGM3OTRmNDZmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+        "width": 1170
+      },
+      "title": "Batman Beyond",
+      "titleType": "tvSeries",
+      "year": 1999
+    },
+    {
+      "id": "/title/tt0398417/",
+      "image": {
+        "height": 1280,
+        "id": "/title/tt0398417/images/rm3841123585",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDExMWQ5MDQtMWNjNy00M2EzLWE1M2EtYzFhNDVhM2Q5MDI1XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_.jpg",
+        "width": 854
+      },
+      "title": "The Batman",
+      "titleType": "tvSeries",
+      "year": 2004
+    },
+    {
+      "id": "/title/tt0060153/",
+      "image": {
+        "height": 2941,
+        "id": "/title/tt0060153/images/rm4086331136",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM1OGIzM2UtNThhZS00ZGNlLWI4NzEtZjlhOTNhNmYxZGQ0XkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_.jpg",
+        "width": 1917
+      },
+      "title": "Batman",
+      "titleType": "movie",
+      "year": 1966
+    },
+    {
+      "id": "/title/tt19850008/",
+      "proOnly": true,
+      "title": "The Batman 2",
+      "titleType": "movie",
+      "year": 2025
+    },
+    {
+      "id": "/title/tt14324650/",
+      "image": {
+        "height": 1918,
+        "id": "/title/tt14324650/images/rm3986351361",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDBkYTJjZjgtNDlhNi00ZTE1LWI2NmYtMDBjMDUzOWMwNzQwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1284
+      },
+      "title": "Batman: The Long Halloween, Part One",
+      "titleType": "movie",
+      "year": 2021
+    }
+  ],
+  "totalMatches": 80
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "fc82e445-a89b-4ec0-a0bc-aefaf0779fd9",
+    "serviceTimeMs": 39.413513
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "2",
+  "results": [
+    {
+      "id": "/title/tt1213218/",
+      "image": {
+        "height": 1426,
+        "id": "/title/tt1213218/images/rm220756736",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzAyMzZjMDMtYTYyZS00NGJlLWI2ZmQtZTQ3ZGJmNjYwZWFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Batman: The Brave and the Bold",
+      "titleType": "tvSeries",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt6556890/",
+      "image": {
+        "height": 1480,
+        "id": "/title/tt6556890/images/rm1567710464",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQzM2JkYTAtY2ExNi00N2ZhLWE5NDctMDQyMWU5ZjcwZDEwXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Batman and Harley Quinn",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt21445686/",
+      "image": {
+        "height": 2560,
+        "id": "/title/tt21445686/images/rm641861889",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjNmNjJhZTUtMGM2Zi00YTBiLThjOWItYmE0NjRjNzgxNzMwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "Batman: The Long Halloween",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt14402926/",
+      "image": {
+        "height": 1538,
+        "id": "/title/tt14402926/images/rm2266547713",
+        "url": "https://m.media-amazon.com/images/M/MV5BOThjY2UzNDUtYWMzZC00MjJlLThmZTktZTY5ZjI1N2FiYTU5XkEyXkFqcGdeQXVyMTAwMjYyMjQ2._V1_.jpg",
+        "width": 1069
+      },
+      "title": "Batman: The Long Halloween, Part Two",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt7167630/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt7167630/images/rm2566020352",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTJhNjYyMGItODdhOC00ZTZmLTk1MTMtZDRhMmZkYTRiOGJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_.jpg",
+        "width": 533
+      },
+      "title": "Batman: Gotham by Gaslight",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt7451284/",
+      "image": {
+        "height": 452,
+        "id": "/title/tt7451284/images/rm2446107393",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFlMDc2NGMtYjkyMS00MTlhLTgxNWItMmYxZjc5NzVhMGE0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "width": 320
+      },
+      "title": "Batman Ninja",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt12885852/",
+      "image": {
+        "height": 1904,
+        "id": "/title/tt12885852/images/rm1836391681",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmQ4YjZlZjAtYzljOS00ZjViLWE1NGYtMzlmZDZjZTcxYzRiXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1269
+      },
+      "title": "Batman: Soul of the Dragon",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt0169590/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt0169590/images/rm2016087809",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQ3YWJhODMtYTdmNC00MmZiLThhOWYtM2UxZDBjNjRlY2EwXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg",
+        "width": 556
+      },
+      "title": "The Batman Superman Movie: World's Finest",
+      "titleType": "tvMovie",
+      "year": 1997
+    },
+    {
+      "id": "/title/tt9673190/",
+      "image": {
+        "height": 544,
+        "id": "/title/tt9673190/images/rm3163914241",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Q5Yjk4OWQtYjJiYy00NDIwLWFmNTYtNzc3NDE1MWU4NzMxXkEyXkFqcGdeQXVyNzI0NDk4OTE@._V1_.jpg",
+        "width": 1331
+      },
+      "title": "The Lego Batman Movie 2",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt0035665/",
+      "image": {
+        "height": 834,
+        "id": "/title/tt0035665/images/rm3938502144",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTIzMDI1MTk3Nl5BMl5BanBnXkFtZTgwODE4NzM1MjE@._V1_.jpg",
+        "width": 544
+      },
+      "title": "Batman",
+      "titleType": "movie",
+      "year": 1943
+    },
+    {
+      "id": "/title/tt0231237/",
+      "image": {
+        "height": 750,
+        "id": "/title/tt0231237/images/rm2771062529",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjdjN2VjMDQtZjc2Ni00ZTIxLWIzYjktOTE0MTY3ZTFiNGZiXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg",
+        "width": 500
+      },
+      "title": "Batman Beyond: The Movie",
+      "titleType": "tvMovie",
+      "year": 1999
+    },
+    {
+      "id": "/title/tt2329077/",
+      "image": {
+        "height": 3000,
+        "id": "/title/tt2329077/images/rm3415722241",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjY2ZmMyZTMtMDBiYi00MTZlLWFmZjAtYzE2NWE4OTBmYTJiXkEyXkFqcGdeQXVyMTI1MzYzODMy._V1_.jpg",
+        "width": 2000
+      },
+      "title": "Beware the Batman",
+      "titleType": "tvSeries",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt5973626/",
+      "image": {
+        "height": 1200,
+        "id": "/title/tt5973626/images/rm2163356928",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTdlNjNhOGEtZTk2Yy00MjI5LTllOTMtODczMWFmNmNhZmVlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 800
+      },
+      "title": "Batman: Return of the Caped Crusaders",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt0062544/",
+      "image": {
+        "height": 1873,
+        "id": "/title/tt0062544/images/rm703271425",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg5YTIzNjktZDU1MS00YmVhLWJjY2ItNWE5NjQ3Nzg1OTAwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1284
+      },
+      "title": "The Batman/Superman Hour",
+      "titleType": "tvSeries",
+      "year": 1968
+    },
+    {
+      "id": "/title/tt0041162/",
+      "image": {
+        "height": 822,
+        "id": "/title/tt0041162/images/rm3284256256",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzU1OTM2Nl5BMl5BanBnXkFtZTgwOTIyODM1MjE@._V1_.jpg",
+        "width": 530
+      },
+      "title": "Batman and Robin",
+      "titleType": "movie",
+      "year": 1949
+    },
+    {
+      "id": "/title/tt0075543/",
+      "image": {
+        "height": 686,
+        "id": "/title/tt0075543/images/rm744420865",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTI0MDgyYjUtNGQxMS00MzFlLTllMGUtZDRhZmFjYzgwZjg3XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 500
+      },
+      "title": "The New Adventures of Batman",
+      "titleType": "tvSeries",
+      "year": 1977
+    },
+    {
+      "id": "/title/tt15352516/",
+      "image": {
+        "height": 563,
+        "id": "/title/tt15352516/images/rm396948225",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjc5ZjE4NmUtZTM5Yy00ZDFjLTgwYTUtYTc3NWNmZWRmMWFkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Merry Little Batman",
+      "titleType": "tvMovie",
+      "year": 2022
+    },
+    {
+      "id": "/title/tt7578566/",
+      "image": {
+        "height": 1939,
+        "id": "/title/tt7578566/images/rm1990482176",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg1NGY1YjItMDc5MC00NDkwLTgxZTItNjFlYWM5YzI1ZGNiXkEyXkFqcGdeQXVyMzc1MzYxMjc@._V1_.jpg",
+        "width": 1366
+      },
+      "title": "Scooby-Doo & Batman: The Brave and the Bold",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt4178838/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt4178838/images/rm1646392576",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2NTQ5NzkzM15BMl5BanBnXkFtZTgwNjc4NjY5NTE@._V1_.jpg",
+        "width": 1320
+      },
+      "title": "Batman Beyond",
+      "titleType": "tvSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt7899164/",
+      "image": {
+        "height": 1581,
+        "id": "/title/tt7899164/images/rm681267200",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDkxN2MyYWEtYmRlMC00ZTY4LTliYzktZDlmMTg3ZTIyNjg3XkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_.jpg",
+        "width": 1080
+      },
+      "title": "Batman Beyond",
+      "titleType": "movie",
+      "year": 2017
+    }
+  ],
+  "totalMatches": 80
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "5a2c105e-e6ed-43e5-bfd5-ec7fc385452c",
+    "serviceTimeMs": 44.098418
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "3",
+  "results": [
+    {
+      "id": "/title/tt10327712/",
+      "image": {
+        "height": 2172,
+        "id": "/title/tt10327712/images/rm2559497217",
+        "url": "https://m.media-amazon.com/images/M/MV5BODU1ODlhNGEtZGNlOC00NTU0LThhMmItNzVmZjQxOGE1MGMxXkEyXkFqcGdeQXVyMjQ0OTA1Nzc@._V1_.jpg",
+        "width": 1536
+      },
+      "title": "Lego DC Batman: Family Matters",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt4818178/",
+      "image": {
+        "height": 1000,
+        "id": "/title/tt4818178/images/rm716773376",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI0M2ZkYmItNDEyZi00ODMzLWIxMzktNjY1MjA5ZTFjZDMzXkEyXkFqcGdeQXVyNTQzMjAxMzA@._V1_.jpg",
+        "width": 680
+      },
+      "title": "Batman Unlimited",
+      "titleType": "tvSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt12815434/",
+      "image": {
+        "height": 3361,
+        "id": "/title/tt12815434/images/rm969846017",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTZmZTAxZDctN2FhOC00ZWFjLThiYjMtMTBiNDg4Y2NmYzQ4XkEyXkFqcGdeQXVyMTIwMTEzNjQ2._V1_.jpg",
+        "width": 3462
+      },
+      "title": "Batman: A Beautiful Lie",
+      "titleType": "movie",
+      "year": 2022
+    },
+    {
+      "id": "/title/tt6067832/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt6067832/images/rm2667992064",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYzZjc2ZTQtYmQyYy00NTk5LThmMTItNWQyNzk3MjNkYzEwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",
+        "width": 1028
+      },
+      "title": "Batman & Bill",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt1458796/",
+      "image": {
+        "height": 2560,
+        "id": "/title/tt1458796/images/rm1481382913",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdhMTVlNDgtY2VlYy00YmU0LWI2YzctYWYwMmVkZjFiYWU0XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1727
+      },
+      "title": "Batman: Black and White",
+      "titleType": "tvSeries",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt21110654/",
+      "title": "Batman Azteca: Choque De Imperios",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt21025456/",
+      "image": {
+        "height": 820,
+        "id": "/title/tt21025456/images/rm1834025473",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzEyY2VjOGYtNDc2Mi00YTA1LWI4Y2EtYjg5MDBlYWIwMWJkXkEyXkFqcGdeQXVyMTQ3MzQ2NDgy._V1_.jpg",
+        "width": 546
+      },
+      "title": "Batman: The Series",
+      "titleType": "tvSeries",
+      "year": 2023
+    },
+    {
+      "id": "/title/tt9555800/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt9555800/images/rm4089078528",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2VlMzg1ZDMtZTZkMS00YTFjLWE1ZjctYTI2N2I1ZDZiMTNmXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_.jpg",
+        "width": 1117
+      },
+      "title": "Heart of Batman",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt18305174/",
+      "image": {
+        "height": 599,
+        "id": "/title/tt18305174/images/rm1147856129",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzE0MzhlZDEtODg5ZC00ZDVhLWJlNzktMzY0NGJiMzU3YTU1XkEyXkFqcGdeQXVyMzc1MDQyNTM@._V1_.jpg",
+        "width": 1148
+      },
+      "title": "Batman: Wayne Family Adventures",
+      "titleType": "tvSeries",
+      "year": 2022
+    },
+    {
+      "id": "/title/tt0057875/",
+      "image": {
+        "height": 523,
+        "id": "/title/tt0057875/images/rm1367544576",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzhiYTYyMWQtZmNmMy00YzU2LWFkNjctOTA5MmZlNzVjMzI5XkEyXkFqcGdeQXVyNjUzNTMxNDY@._V1_.jpg",
+        "width": 400
+      },
+      "title": "Batman Dracula",
+      "titleType": "movie",
+      "year": 1964
+    },
+    {
+      "id": "/title/tt0121067/",
+      "image": {
+        "height": 720,
+        "id": "/title/tt0121067/images/rm3801422080",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjk2YzkyODctZWRhOC00NDFkLThmNjEtZjE0MTY4N2Q1YWE5XkEyXkFqcGdeQXVyNTYyNzQ2MjY@._V1_.jpg",
+        "width": 395
+      },
+      "title": "Alyas Batman en Robin",
+      "titleType": "movie",
+      "year": 1991
+    },
+    {
+      "id": "/title/tt11509646/",
+      "image": {
+        "height": 1785,
+        "id": "/title/tt11509646/images/rm3049590273",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzllNTQxYTItOWVmMC00NzVlLWEzMWEtOWI5OWFkMGZjYWVjXkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_.jpg",
+        "width": 1284
+      },
+      "title": "OnStar: Batman",
+      "titleType": "tvMiniSeries",
+      "year": 2000
+    },
+    {
+      "id": "/title/tt6084014/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt6084014/images/rm1120548608",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzJkZjU5ZDItNmEwMi00NGRiLWIyMDAtOTFiOGY0NmY0YTdhXkEyXkFqcGdeQXVyNjkwMTY4MDI@._V1_.jpg",
+        "width": 1411
+      },
+      "title": "Batman: Master of Fear",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt0061386/",
+      "image": {
+        "height": 1600,
+        "id": "/title/tt0061386/images/rm3268359680",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk3ODhjZDUtYmQwZS00MzI0LTgzNWItMjdjYmMxZjM4ZGI3XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg",
+        "width": 862
+      },
+      "title": "Batman Fights Dracula",
+      "titleType": "movie",
+      "year": 1967
+    },
+    {
+      "id": "/title/tt1614951/",
+      "image": {
+        "height": 1991,
+        "id": "/title/tt1614951/images/rm3612089345",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg1YmE2NTgtZGE3Ny00ZWRjLThiZDMtZTZjZTYzMjE0YTQzXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1284
+      },
+      "title": "Batman Adventures: Mad Love",
+      "titleType": "tvMiniSeries",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt3181178/",
+      "image": {
+        "height": 1280,
+        "id": "/title/tt3181178/images/rm4229743104",
+        "url": "https://m.media-amazon.com/images/M/MV5BODczOTY0MTg1MV5BMl5BanBnXkFtZTgwODgwNjMyMjE@._V1_.jpg",
+        "width": 844
+      },
+      "title": "Behind the Mask: The Batman Dead End Story",
+      "titleType": "movie",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt5870174/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt5870174/images/rm4144108544",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE1OTllYjYtM2NiNi00ZWMxLWI3M2UtZjUzNTUxM2QyMDI5XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "Batman Beyond: Rising Knight",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt1265589/",
+      "image": {
+        "height": 1753,
+        "id": "/title/tt1265589/images/rm2213019648",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjVlMjczMGItNTM5Ny00ZjFlLThjNTctYjIxN2IwMzQzMGY5XkEyXkFqcGdeQXVyNjU0NzE1NDY@._V1_.jpg",
+        "width": 1280
+      },
+      "title": "Batman Unmasked",
+      "titleType": "tvMovie",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt5516944/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt5516944/images/rm3774945280",
+        "url": "https://m.media-amazon.com/images/M/MV5BODM3MmUyYjAtNzk1OS00ZjA1LTk0NmEtY2VkMjkxYjg4YzljXkEyXkFqcGdeQXVyMjE5MjI4NDI@._V1_.jpg",
+        "width": 891
+      },
+      "title": "Batman: Anarchy",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt5070262/",
+      "image": {
+        "height": 1600,
+        "id": "/title/tt5070262/images/rm2200308480",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWNhZGQwNDYtNGZkNC00NzkxLTk2MDYtMzZkMTAyZjAwMDQyXkEyXkFqcGdeQXVyMzgwODQ4Nw@@._V1_.jpg",
+        "width": 1200
+      },
+      "title": "Batman & Jesus",
+      "titleType": "movie",
+      "year": 2017
+    }
+  ],
+  "totalMatches": 80
+},
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "d9dcd8e8-4ea5-49c7-97a7-48a8883dbb30",
+    "serviceTimeMs": 40.324139
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt0361763/",
+      "image": {
+        "height": 1100,
+        "id": "/title/tt0361763/images/rm2777420800",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjU3MGU3ZTktN2M1OS00OGNjLWIyNzEtYzU3Nzg5ZjllODY5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_.jpg",
+        "width": 940
+      },
+      "title": "James Batman",
+      "titleType": "movie",
+      "year": 1966
+    },
+    {
+      "id": "/title/tt4705944/",
+      "image": {
+        "height": 360,
+        "id": "/title/tt4705944/images/rm2617513984",
+        "url": "https://m.media-amazon.com/images/M/MV5BODA2YzI0YTctZGYzOS00NzlhLTlmZDAtNjNhYmU1MzJiMjRhXkEyXkFqcGdeQXVyMjI4OTgyODI@._V1_.jpg",
+        "width": 640
+      },
+      "title": "Batman: The Long Halloween",
+      "titleType": "tvMiniSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt5893252/",
+      "image": {
+        "height": 8000,
+        "id": "/title/tt5893252/images/rm2095450624",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmY1MDA1MWQtOGE4MS00N2FkLThjZjYtMGUwYTllNWE2ZDBmXkEyXkFqcGdeQXVyNjMxNDI4OTM@._V1_.jpg",
+        "width": 6000
+      },
+      "title": "Batman: The Darkest Night",
+      "titleType": "tvMiniSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt5875708/",
+      "image": {
+        "height": 2304,
+        "id": "/title/tt5875708/images/rm3207075072",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdhZjM0NGYtMjgxOC00NTkxLTg1ZTEtMjZhNDhjYjZjMjFlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_.jpg",
+        "width": 1536
+      },
+      "title": "B@ (Batman Parody Film)",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt6230896/",
+      "image": {
+        "height": 808,
+        "id": "/title/tt6230896/images/rm957067009",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTZhMGRhMmEtNGJiZS00NzI0LWI0OWEtM2E3YmQ4MDNjM2RjXkEyXkFqcGdeQXVyMTA1NTk4OTAz._V1_.jpg",
+        "width": 640
+      },
+      "title": "Batman: Terror of Arkham",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt2602174/",
+      "image": {
+        "height": 960,
+        "id": "/title/tt2602174/images/rm687579648",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg5MzYwMTM1MV5BMl5BanBnXkFtZTcwNDg4Mjc5OA@@._V1_.jpg",
+        "width": 640
+      },
+      "title": "Batman Revealed",
+      "titleType": "movie",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt3752894/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt3752894/images/rm757158912",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg5Y2Y0MDEtZmUwMy00ZmFmLWExNzYtMmVmNWRhNWQ3MzE0XkEyXkFqcGdeQXVyMjMwNTk0NzM@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "Sassy Batman",
+      "titleType": "tvSeries",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt1168705/",
+      "image": {
+        "height": 768,
+        "id": "/title/tt1168705/images/rm3608420096",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGMyYzM3YWYtNGRiYi00MzgxLWJlOWQtYjEyNGU5YWZjODAyXkEyXkFqcGdeQXVyMjQxMDc1NDc@._V1_.jpg",
+        "width": 536
+      },
+      "title": "Fight! Batman, Fight!",
+      "titleType": "movie",
+      "year": 1973
+    },
+    {
+      "id": "/title/tt7298666/",
+      "title": "The Batman (Animated MC Series)",
+      "titleType": "tvSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt0486464/",
+      "title": "Riddle Me This: Why Is Batman Forever?",
+      "titleType": "tvMovie",
+      "year": 1995
+    },
+    {
+      "id": "/title/tt12736322/",
+      "image": {
+        "height": 4961,
+        "id": "/title/tt12736322/images/rm1889381377",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzJjOWQ0NmYtZjNjMi00ZmViLThmZjYtYmIxZjI4NDI3ZGRkXkEyXkFqcGdeQXVyMTIwNDE1MzUy._V1_.jpg",
+        "width": 3508
+      },
+      "title": "Batman and Me",
+      "titleType": "movie",
+      "year": 2020
+    },
+    {
+      "id": "/title/tt2327888/",
+      "title": "The Batman Shootings",
+      "titleType": "tvMovie",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt4724924/",
+      "image": {
+        "height": 2275,
+        "id": "/title/tt4724924/images/rm1367479552",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjRiZDM0NzAtYzg1Yy00ZWM3LThmYmQtNzA2MTVlMzk3MzNkXkEyXkFqcGdeQXVyMjI2MTgxNDU@._V1_.jpg",
+        "width": 2000
+      },
+      "title": "Batman Untold",
+      "titleType": "movie",
+      "year": 2010
+    },
+    {
+      "id": "/title/tt1074939/",
+      "title": "Batman Begins: Behind the Mask",
+      "titleType": "tvMovie",
+      "year": 2005
+    },
+    {
+      "id": "/title/tt1228961/",
+      "image": {
+        "height": 900,
+        "id": "/title/tt1228961/images/rm3328186112",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Y4Y2UzYTUtYWMwYS00ZDA0LThlMjEtOTkyNjVkYzBiNTI5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_.jpg",
+        "width": 661
+      },
+      "title": "Alyas Batman at Robin",
+      "titleType": "movie",
+      "year": 1965
+    },
+    {
+      "id": "/title/tt4856116/",
+      "image": {
+        "height": 1408,
+        "id": "/title/tt4856116/images/rm4227984128",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyNTA0ODU4MF5BMl5BanBnXkFtZTgwNjk3OTkyNjE@._V1_.jpg",
+        "width": 1088
+      },
+      "title": "Batman: Abyss",
+      "titleType": "tvMiniSeries",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt1265588/",
+      "image": {
+        "height": 563,
+        "id": "/title/tt1265588/images/rm2427852800",
+        "url": "https://m.media-amazon.com/images/M/MV5BNWM4ZWQ2ODktNWE5Mi00YmZiLTkzOTMtYzZjMTI1ZjU2MjJiXkEyXkFqcGdeQXVyMTc5MjA5MDQ@._V1_.jpg",
+        "width": 375
+      },
+      "title": "Batman Tech",
+      "titleType": "tvMovie",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt7836426/",
+      "image": {
+        "height": 720,
+        "id": "/title/tt7836426/images/rm2043958272",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzljN2YwMDMtYWVjZS00ODk3LWE3ZmQtNDYwZGUyNDYzMjk4XkEyXkFqcGdeQXVyMzYyMTIxOTM@._V1_.jpg",
+        "width": 480
+      },
+      "title": "Batman Beyond Arkham Fan Film",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt2409658/",
+      "title": "The Batman Files",
+      "titleType": "tvSeries",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt1852413/",
+      "image": {
+        "height": 2400,
+        "id": "/title/tt1852413/images/rm375438080",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI2NTE3NzA4MV5BMl5BanBnXkFtZTcwNjM5ODI3NA@@._V1_.jpg",
+        "width": 1620
+      },
+      "title": "How to, Batman!",
+      "titleType": "tvSeries",
+      "year": 2009
+    }
+  ],
+  "totalMatches": 80
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "c745b5b3-1847-4a66-8b64-f13cf9e1eb50",
+    "serviceTimeMs": 45.607018
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "1",
+  "results": [
+    {
+      "id": "/title/tt10872600/",
+      "image": {
+        "height": 4000,
+        "id": "/title/tt10872600/images/rm3936939521",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+        "width": 2699
+      },
+      "title": "Spider-Man: No Way Home",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt0145487/",
+      "image": {
+        "height": 755,
+        "id": "/title/tt0145487/images/rm3632146944",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+        "width": 511
+      },
+      "title": "Spider-Man",
+      "titleType": "movie",
+      "year": 2002
+    },
+    {
+      "id": "/title/tt4633694/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt4633694/images/rm173371392",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+        "width": 1381
+      },
+      "title": "Spider-Man: Into the Spider-Verse",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt2250912/",
+      "image": {
+        "height": 1024,
+        "id": "/title/tt2250912/images/rm3491180544",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_.jpg",
+        "width": 674
+      },
+      "title": "Spider-Man: Homecoming",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt9362722/",
+      "image": {
+        "height": 3840,
+        "id": "/title/tt9362722/images/rm226750209",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGRhNDE1YjYtOGUzMC00YjliLThiOTgtYTkwNmQwNDZjYjFhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "width": 2592
+      },
+      "title": "Spider-Man: Across the Spider-Verse",
+      "titleType": "movie",
+      "year": 2023
+    },
+    {
+      "id": "/title/tt6320628/",
+      "image": {
+        "height": 9000,
+        "id": "/title/tt6320628/images/rm952737537",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "width": 6072
+      },
+      "title": "Spider-Man: Far from Home",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt0413300/",
+      "image": {
+        "height": 1115,
+        "id": "/title/tt0413300/images/rm4250081280",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "width": 750
+      },
+      "title": "Spider-Man 3",
+      "titleType": "movie",
+      "year": 2007
+    },
+    {
+      "id": "/title/tt0316654/",
+      "image": {
+        "height": 1400,
+        "id": "/title/tt0316654/images/rm3078822144",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1021
+      },
+      "title": "Spider-Man 2",
+      "titleType": "movie",
+      "year": 2004
+    },
+    {
+      "id": "/title/tt0948470/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt0948470/images/rm2110040832",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+        "width": 1381
+      },
+      "title": "The Amazing Spider-Man",
+      "titleType": "movie",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt1872181/",
+      "image": {
+        "height": 3000,
+        "id": "/title/tt1872181/images/rm2573584384",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+        "width": 2025
+      },
+      "title": "The Amazing Spider-Man 2",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt0112175/",
+      "image": {
+        "height": 1426,
+        "id": "/title/tt0112175/images/rm86539008",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Spider-Man: The Animated Series",
+      "titleType": "tvSeries",
+      "year": 1994
+    },
+    {
+      "id": "/title/tt1722512/",
+      "image": {
+        "height": 850,
+        "id": "/title/tt1722512/images/rm3381467904",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWRmMjhjMmEtZGI0Yy00YWEwLWExNGUtN2Y5MWJlMTA0NzU5XkEyXkFqcGdeQXVyNDM5MjMwNTA@._V1_.jpg",
+        "width": 554
+      },
+      "title": "Ultimate Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt16360004/",
+      "image": {
+        "height": 1240,
+        "id": "/title/tt16360004/images/rm2183072257",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWJlNThmNWMtZWE5Zi00YWJiLWJiOTQtZWY1Y2I3ZmNhMDYwXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_.jpg",
+        "width": 840
+      },
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "titleType": "movie",
+      "year": 2024
+    },
+    {
+      "id": "/title/tt0976192/",
+      "image": {
+        "height": 2220,
+        "id": "/title/tt0976192/images/rm698755072",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZmYTI4MDctMzU4OC00ODJmLTkwMTgtYjRmMDRkMzc3NWZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1455
+      },
+      "title": "The Spectacular Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2008
+    },
+    {
+      "id": "/title/tt16027074/",
+      "image": {
+        "height": 6000,
+        "id": "/title/tt16027074/images/rm1659045889",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ2NjNlY2UtZWI5MS00ODVmLTlkYzctZmM3YzE1ZWFkZDk2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "width": 4050
+      },
+      "title": "Spider-Man: Freshman Year",
+      "titleType": "tvSeries"
+    },
+    {
+      "id": "/title/tt6135682/",
+      "image": {
+        "height": 1170,
+        "id": "/title/tt6135682/images/rm4278659840",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDFjOTc1NTYtNmZkMy00MjEzLTk5MTUtZTY4ZWYyYzRjNWM0XkEyXkFqcGdeQXVyNDU1ODk5ODg@._V1_.jpg",
+        "width": 804
+      },
+      "title": "Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt0290983/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt0290983/images/rm3845204736",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjI0ZjVkN2MtMGZhNi00Yjk2LWIxMzktYzYwYzk0YWNmMjlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1056
+      },
+      "title": "Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2003
+    },
+    {
+      "id": "/title/tt0076975/",
+      "image": {
+        "height": 1440,
+        "id": "/title/tt0076975/images/rm2122325504",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzkwYjA4MzQtODM1ZS00MzQ5LTliYWEtMzc1ZDZlYzU2Y2FkXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_.jpg",
+        "width": 960
+      },
+      "title": "The Amazing Spider-Man",
+      "titleType": "tvSeries",
+      "year": 1977
+    },
+    {
+      "id": "/title/tt9765564/",
+      "image": {
+        "height": 2592,
+        "id": "/title/tt9765564/images/rm3836765440",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVhMWExZTEtNDgxYi00YmFhLTgwN2UtYjJiODM0YmMyYmU3XkEyXkFqcGdeQXVyODYyNTgyNjc@._V1_.jpg",
+        "width": 1728
+      },
+      "title": "Spider-Man 4: Fan Film",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt0061301/",
+      "image": {
+        "height": 1392,
+        "id": "/title/tt0061301/images/rm2097755648",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGM4N2FmMTktZmUyZi00OWNlLWExMzctNDcxNDI3ZTk2NGMxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1015
+      },
+      "title": "Spider-Man",
+      "titleType": "tvSeries",
+      "year": 1967
+    }
+  ],
+  "totalMatches": 67
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "b5649212-ac30-4c74-90b7-f06116eafd0d",
+    "serviceTimeMs": 38.39883
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "2",
+  "results": [
+    {
+      "id": "/title/tt0083481/",
+      "image": {
+        "height": 1600,
+        "id": "/title/tt0083481/images/rm917641984",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjNkMGMxNDMtNjgxYi00ZjMzLWE1YmQtNGQxOWM2NTMxNThjXkEyXkFqcGdeQXVyNTQ5Njk1NDU@._V1_.jpg",
+        "width": 1175
+      },
+      "title": "Spider-Man and His Amazing Friends",
+      "titleType": "tvSeries",
+      "year": 1981
+    },
+    {
+      "id": "/title/tt0207120/",
+      "image": {
+        "height": 1418,
+        "id": "/title/tt0207120/images/rm664193281",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTYwMmE5M2EtYWNhOS00MGZhLWFiYmEtMjVhYTYxODA1NTZhXkEyXkFqcGdeQXVyMTI1MzYzODMy._V1_.jpg",
+        "width": 945
+      },
+      "title": "Spider-Man Unlimited",
+      "titleType": "tvSeries",
+      "year": 1999
+    },
+    {
+      "id": "/title/tt0081938/",
+      "image": {
+        "height": 750,
+        "id": "/title/tt0081938/images/rm253082625",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRlY2ZjMzEtNDNjOC00ZmM4LTkzMjAtNDE5YWUxNWI0ZTI4XkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_.jpg",
+        "width": 500
+      },
+      "title": "Spider-Man",
+      "titleType": "tvSeries",
+      "year": 1981
+    },
+    {
+      "id": "/title/tt0185116/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt0185116/images/rm1295133440",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2EwYzA2YjMtNDdhYi00OTI1LWE2ODUtOWViODk4YjRjNzVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 565
+      },
+      "title": "Spider-Man",
+      "titleType": "tvSeries",
+      "year": 1978
+    },
+    {
+      "id": "/title/tt0197911/",
+      "image": {
+        "height": 1134,
+        "id": "/title/tt0197911/images/rm4288875264",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjNiYmU5YzctYzE5NC00MWVlLWIxMGUtNDVjNGNjMWZkNTE4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+        "width": 800
+      },
+      "title": "Spider-Woman",
+      "titleType": "tvSeries",
+      "year": 1979
+    },
+    {
+      "id": "/title/tt7137818/",
+      "image": {
+        "height": 504,
+        "id": "/title/tt7137818/images/rm3956026368",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTBlNDdkY2MtODcwZS00ODcyLTlkZGYtMjkyMDEwMzAzMGIzXkEyXkFqcGdeQXVyNzEyMjMyODQ@._V1_.jpg",
+        "width": 900
+      },
+      "title": "Lego Spider-Man Series",
+      "titleType": "tvSeries",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt0077328/",
+      "image": {
+        "height": 1515,
+        "id": "/title/tt0077328/images/rm2809865216",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTdkYjg3MzktM2RhZi00ZGE2LTg4ZmMtNmI4NzcwOGI0NWMxXkEyXkFqcGdeQXVyNzA5MzkyOTM@._V1_.jpg",
+        "width": 1053
+      },
+      "title": "Spider-Man: The Dragon's Challenge",
+      "titleType": "tvMovie",
+      "year": 1979
+    },
+    {
+      "id": "/title/tt6245274/",
+      "image": {
+        "height": 1452,
+        "id": "/title/tt6245274/images/rm1863348480",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2Q4NjUwYmQtMTJkZi00YjFhLWIxYWYtNTNkNjYyZDZjMjAzXkEyXkFqcGdeQXVyNjk3NDQ4NzE@._V1_.jpg",
+        "width": 1056
+      },
+      "title": "Spider-Man 2: Another World",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt0282178/",
+      "image": {
+        "height": 475,
+        "id": "/title/tt0282178/images/rm4273183744",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxMDk0NjQ0Nl5BMl5BanBnXkFtZTcwMDEyNjAyMQ@@._V1_.jpg",
+        "width": 328
+      },
+      "title": "Earth vs. the Spider",
+      "titleType": "tvMovie",
+      "year": 2001
+    },
+    {
+      "id": "/title/tt0078308/",
+      "image": {
+        "height": 2905,
+        "id": "/title/tt0078308/images/rm1093806848",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MTE3MDEtNzVlZC00OGM3LTkyNGYtZjBmODg1M2M3ODU4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1949
+      },
+      "title": "Spider-Man Strikes Back",
+      "titleType": "tvMovie",
+      "year": 1978
+    },
+    {
+      "id": "/title/tt2803854/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt2803854/images/rm1954683136",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmZkYWRlNWQtOGY0Zi00MWZkLWJiZTktNjRjMDY4MTU2YzAyXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_.jpg",
+        "width": 602
+      },
+      "title": "Spider Man: Lost Cause",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt1673449/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt1673449/images/rm1961455360",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTI4ZDFmODQtMmJhYi00MTY2LTgzMjMtNTEwY2VhMjhlOTBmXkEyXkFqcGdeQXVyODMwMzg0Mjc@._V1_.jpg",
+        "width": 1100
+      },
+      "title": "Spider-Woman, Agent of S.W.O.R.D.",
+      "titleType": "tvMiniSeries",
+      "year": 2009
+    },
+    {
+      "id": "/title/tt3861082/",
+      "image": {
+        "height": 5100,
+        "id": "/title/tt3861082/images/rm1799383552",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM0N2JhNGUtYTMyYS00NTVkLTg4MzktOWE3NjRjODdkN2M3XkEyXkFqcGdeQXVyMjEzOTU3NTk@._V1_.jpg",
+        "width": 3300
+      },
+      "title": "Black Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt3520826/",
+      "image": {
+        "height": 640,
+        "id": "/title/tt3520826/images/rm453847040",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjkyMGNjOTctOWRjYi00MDgzLThiMmQtOGE4MzA3NGY0M2EyXkEyXkFqcGdeQXVyNTA0OTc0NTg@._V1_.jpg",
+        "width": 1138
+      },
+      "title": "Stunning Spider-Man: Reborn",
+      "titleType": "tvSeries",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt0420574/",
+      "image": {
+        "height": 750,
+        "id": "/title/tt0420574/images/rm2551713024",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDM0N2NmYjctMTI3ZC00NTQyLWI1YWMtZDBlNWJjYzBkMDlhXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_.jpg",
+        "width": 500
+      },
+      "title": "De Superman à Spider-Man: L'aventure des super-héros",
+      "titleType": "tvMovie",
+      "year": 2001
+    },
+    {
+      "id": "/title/tt7745364/",
+      "image": {
+        "height": 867,
+        "id": "/title/tt7745364/images/rm2532856320",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDkyMTBjYzAtODgwOC00YmRjLWJkNjktZWFhY2MzYjNmZmU0XkEyXkFqcGdeQXVyNzQzOTQ0OTI@._V1_.jpg",
+        "width": 607
+      },
+      "title": "The Web of Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt9354914/",
+      "proOnly": true,
+      "title": "Untitled Spider-Verse Project",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt0030779/",
+      "image": {
+        "height": 720,
+        "id": "/title/tt0030779/images/rm1556473088",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjY0Nzc1ZjktOTkzNS00NTZmLThiODUtNjk1YTVmMGE5M2FjXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+        "width": 896
+      },
+      "title": "The Spider's Web",
+      "titleType": "movie",
+      "year": 1938
+    },
+    {
+      "id": "/title/tt8446672/",
+      "image": {
+        "height": 1075,
+        "id": "/title/tt8446672/images/rm3711255808",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTg1MzdlMGItNTE1Ny00NzYyLTk2MjQtN2FjYjk0ZmE5ZDdkXkEyXkFqcGdeQXVyNTQzOTc0NDU@._V1_.jpg",
+        "width": 743
+      },
+      "title": "The Marvelous Spider-Man 3: Empire of Blood",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt0060226/",
+      "image": {
+        "height": 445,
+        "id": "/title/tt0060226/images/rm1765271296",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjQ4ZTRjMWMtZTk4Zi00NmNkLWJkOGYtM2E0YWE1MDBiNDZhXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+        "width": 600
+      },
+      "title": "Hellish Spiders",
+      "titleType": "movie",
+      "year": 1968
+    }
+  ],
+  "totalMatches": 67
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "c290b6a8-643d-4d10-83f2-ef154df1af44",
+    "serviceTimeMs": 46.461831
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "3",
+  "results": [
+    {
+      "id": "/title/tt6318156/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt6318156/images/rm2223782144",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmMyZDg0MjktOWUxYy00MzA5LTk0MzEtNmVlN2M4YzI1MzM2L2ltYWdlXkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+        "width": 731
+      },
+      "title": "Spider-Man: Commencement",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt6510632/",
+      "image": {
+        "height": 2250,
+        "id": "/title/tt6510632/images/rm555438336",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2I5YTYxODQtYTY1Zi00MDEzLWE3YzAtZTViMTQyMTFiNGI5XkEyXkFqcGdeQXVyODEzMjA2NjU@._V1_.jpg",
+        "width": 3000
+      },
+      "title": "Spider-Man 2: Age of Darkness",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt0034223/",
+      "image": {
+        "height": 1175,
+        "id": "/title/tt0034223/images/rm506206208",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDA0YTA4NTUtYWFmMy00ZTRhLTgzODYtMGYzZjRmNzg2M2IzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+        "width": 396
+      },
+      "title": "The Spider Returns",
+      "titleType": "movie",
+      "year": 1941
+    },
+    {
+      "id": "/title/tt4779842/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt4779842/images/rm2851870464",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzkwZDFjNDctZDIyNS00ZDI5LWEyYWEtNDE4MTY3ZWQ2ZjU0XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "Marvel Knights: Spider-Man",
+      "titleType": "movie",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt0331882/",
+      "image": {
+        "height": 1425,
+        "id": "/title/tt0331882/images/rm1144530688",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQxZWJhYWItNDYwMi00M2Q0LWFhMGQtMzU4MzExNTZhNjBiXkEyXkFqcGdeQXVyNDkwMzY5NjQ@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Behind the Scenes: Spider-Man the Movie",
+      "titleType": "tvMovie",
+      "year": 2002
+    },
+    {
+      "id": "/title/tt10260742/",
+      "proOnly": true,
+      "title": "Untitled Spider-Verse TV Series",
+      "titleType": "tvMovie"
+    },
+    {
+      "id": "/title/tt6416304/",
+      "image": {
+        "height": 1079,
+        "id": "/title/tt6416304/images/rm880949504",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmU5MDkyZDctNTdjNS00YWJjLWI0NDQtZWE2NmIwZWY3MzlmL2ltYWdlXkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+        "width": 725
+      },
+      "title": "Spider-Man: Balance Act",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt10892412/",
+      "title": "Spider-Man: At the End of Time",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt4321248/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt4321248/images/rm2998469376",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2VjOTE0YzAtMjBmZS00OTBkLWI5OTctNjk5ZDhhZjg4MTNlXkEyXkFqcGdeQXVyNTg5MDQ4NjM@._V1_.jpg",
+        "width": 449
+      },
+      "title": "The Avenging Spider-Man",
+      "titleType": "movie",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt4848324/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt4848324/images/rm1009743872",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTZhMGYxOTUtNDRiYi00Y2FmLTk0YjktZGVmNjcxZjA4ZmZmXkEyXkFqcGdeQXVyOTA2NjQ3MzU@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "The Spectacular Lego Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt6463542/",
+      "image": {
+        "height": 4961,
+        "id": "/title/tt6463542/images/rm2935566336",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgzMWNmODQtZWI0MS00YTAyLTgzZWItMTAxYTAxM2ZhMjk4XkEyXkFqcGdeQXVyMzgxMDE3NA@@._V1_.jpg",
+        "width": 3508
+      },
+      "title": "Spider-Man: Reinforcements",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt5727514/",
+      "image": {
+        "height": 588,
+        "id": "/title/tt5727514/images/rm3962178816",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTRkNmY2NTgtNTA5MC00MzZhLWFhZTItZGM4ODYyMzMxN2Y5XkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+        "width": 394
+      },
+      "title": "Spider-Man: Vengeance",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt10443172/",
+      "image": {
+        "height": 2125,
+        "id": "/title/tt10443172/images/rm552894721",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2RkZTllMWUtZWFkMi00NjA5LTk4NjAtMTllNDkxNzcwMzNhXkEyXkFqcGdeQXVyNjgyMjk3NzA@._V1_.jpg",
+        "width": 1369
+      },
+      "title": "Spider-Man: Identity",
+      "titleType": "movie",
+      "year": 2019
+    },
+    {
+      "id": "/title/tt4060186/",
+      "image": {
+        "height": 720,
+        "id": "/title/tt4060186/images/rm1321341440",
+        "url": "https://m.media-amazon.com/images/M/MV5BNWFiODRlNzItOTIzMy00NTM5LWE1ODktMzFlMzdkNDI4YjExXkEyXkFqcGdeQXVyNjY1MTk0NTI@._V1_.jpg",
+        "width": 1280
+      },
+      "title": "Something Sinister This Way Comes - The Amazing Spider-Man 2",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt4770784/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt4770784/images/rm2963865856",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWFjOTg1MjgtYjk2Yi00YzQwLWE4NjUtNzhhMWU4MmQ0NzA0XkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "The Indestructible Spider-Man",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt6520238/",
+      "image": {
+        "height": 1609,
+        "id": "/title/tt6520238/images/rm2720018688",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVmNjkxODYtYzhlMS00NmM1LThhNzEtMGQzZWM0ZWY2ZjM3XkEyXkFqcGdeQXVyNjMxNTY4NzM@._V1_.jpg",
+        "width": 1065
+      },
+      "title": "Spider-Man Ascension",
+      "titleType": "tvSeries",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt4706984/",
+      "image": {
+        "height": 563,
+        "id": "/title/tt4706984/images/rm1150815232",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDhlMmE5ZGEtODE5OC00YTEzLTk3MjItMDA0ZmQxMGU5NDBmXkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+        "width": 380
+      },
+      "title": "The Spider-Man Saga",
+      "titleType": "tvMiniSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt4779838/",
+      "title": "Marvel Knights: Spider-Man",
+      "titleType": "tvSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt8010444/",
+      "image": {
+        "height": 2592,
+        "id": "/title/tt8010444/images/rm4163848960",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYyZjQ4ZWYtNDcxYy00ZDIwLWI0YWEtYTQwMWE4M2JmZTYxXkEyXkFqcGdeQXVyNDUxMzc0MTM@._V1_.jpg",
+        "width": 1728
+      },
+      "title": "Spider-Man: Rise of a Legacy",
+      "titleType": "movie",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt4060252/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt4060252/images/rm1277528577",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGI3YmZiYzAtNGU2NS00NjZhLTg4NDktYjJhMzQ2NDM0YTRjXkEyXkFqcGdeQXVyODE2NDgwMzM@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "The Wages of Heroism: Making the Amazing Spider-Man 2",
+      "titleType": "movie",
+      "year": 2014
+    }
+  ],
+  "totalMatches": 67
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "fb4996af-1841-46e6-9bb7-b65ffa4342a8",
+    "serviceTimeMs": 31.14972
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt1821613/",
+      "image": {
+        "height": 1285,
+        "id": "/title/tt1821613/images/rm395020801",
+        "url": "https://m.media-amazon.com/images/M/MV5BNmJkZGEyN2ItNDdmMy00YmQ5LWJiYWEtNDBlYjU5ZWQ3NTZmXkEyXkFqcGdeQXVyODEyMDIxNzA@._V1_.jpg",
+        "width": 1883
+      },
+      "title": "Spider-Mania",
+      "titleType": "tvMovie",
+      "year": 2002
+    },
+    {
+      "id": "/title/tt9646352/",
+      "image": {
+        "height": 1080,
+        "id": "/title/tt9646352/images/rm431450112",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTc0NzM2YTMtNmJhYS00NWY5LTg5ZjEtZDdmNjAwNTc3NzRkXkEyXkFqcGdeQXVyNzQ3Mjk3OTU@._V1_.jpg",
+        "width": 1920
+      },
+      "title": "The Ultimate LEGO Spider-Man (BMCU)",
+      "titleType": "tvMiniSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt3480754/",
+      "title": "The Sensational Spider-Man",
+      "titleType": "movie"
+    },
+    {
+      "id": "/title/tt3637130/",
+      "title": "Heroes and Villains: The World of the Amazing Spider-Man",
+      "titleType": "tvMovie",
+      "year": 2014
+    },
+    {
+      "id": "/title/tt6859022/",
+      "image": {
+        "height": 896,
+        "id": "/title/tt6859022/images/rm3629526528",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTg4Y2Y1MzgtMTExNy00NTBhLTk3MTMtNmFjMmUxNmVlOWIzXkEyXkFqcGdeQXVyNzU5MjgyMzM@._V1_.jpg",
+        "width": 1600
+      },
+      "title": "Spider-Man 2: A Darker Path",
+      "titleType": "movie",
+      "year": 2017
+    },
+    {
+      "id": "/title/tt4490682/",
+      "title": "Web of the Spider-Man",
+      "titleType": "tvMiniSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt2438848/",
+      "image": {
+        "height": 4200,
+        "id": "/title/tt2438848/images/rm874374400",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjc4MzkyZDMtNjI0MC00MzBmLWFiZTgtNjQ2MWEzM2JlMjRiXkEyXkFqcGdeQXVyMjYxNjA3NzI@._V1_.jpg",
+        "width": 2550
+      },
+      "title": "Spider-Man: The Cheesy Stop-Motion Adventures",
+      "titleType": "tvSeries",
+      "year": 2012
+    }
+  ],
+  "totalMatches": 67
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "be560c5f-e69a-48bb-9537-b8953ad1e6d0",
+    "serviceTimeMs": 36.795792
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "1",
+  "results": [
+    {
+      "id": "/title/tt11192306/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt11192306/images/rm2822827265",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGYyMmViMjgtZjViZi00NjkzLThjZGItMzZhYmZmOWZlMzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 1200
+      },
+      "title": "Superman & Lois",
+      "titleType": "tvSeries",
+      "year": 2021
+    },
+    {
+      "id": "/title/tt2975590/",
+      "image": {
+        "height": 2700,
+        "id": "/title/tt2975590/images/rm2302675456",
+        "url": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1823
+      },
+      "title": "Batman v Superman: Dawn of Justice",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt0078346/",
+      "image": {
+        "height": 1600,
+        "id": "/title/tt0078346/images/rm4053027072",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "width": 1069
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1978
+    },
+    {
+      "id": "/title/tt0348150/",
+      "image": {
+        "height": 1200,
+        "id": "/title/tt0348150/images/rm183061504",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "width": 800
+      },
+      "title": "Superman Returns",
+      "titleType": "movie",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt0106057/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt0106057/images/rm4149153024",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg",
+        "width": 1107
+      },
+      "title": "Lois & Clark: The New Adventures of Superman",
+      "titleType": "tvSeries",
+      "year": 1993
+    },
+    {
+      "id": "/title/tt18689424/",
+      "image": {
+        "height": 1683,
+        "id": "/title/tt18689424/images/rm3207732481",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I4OTllM2MtMWVhNC00MjkzLWJlMDUtN2FhMGQ2ZGVjMjllXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1146
+      },
+      "title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
+      "titleType": "movie",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt0081573/",
+      "image": {
+        "height": 1020,
+        "id": "/title/tt0081573/images/rm2349749248",
+        "url": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "width": 673
+      },
+      "title": "Superman II",
+      "titleType": "movie",
+      "year": 1980
+    },
+    {
+      "id": "/title/tt0115378/",
+      "image": {
+        "height": 1426,
+        "id": "/title/tt0115378/images/rm93000448",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgzOWJjOTMtZjY4ZS00MGRkLTk0YTMtM2E3ZGQyYmMyYzkzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_.jpg",
+        "width": 1000
+      },
+      "title": "Superman: The Animated Series",
+      "titleType": "tvSeries",
+      "year": 1996
+    },
+    {
+      "id": "/title/tt0086393/",
+      "image": {
+        "height": 2121,
+        "id": "/title/tt0086393/images/rm1794118656",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+        "width": 1400
+      },
+      "title": "Superman III",
+      "titleType": "movie",
+      "year": 1983
+    },
+    {
+      "id": "/title/tt0044231/",
+      "image": {
+        "height": 1733,
+        "id": "/title/tt0044231/images/rm3408997120",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 1300
+      },
+      "title": "Adventures of Superman",
+      "titleType": "tvSeries",
+      "year": 1952
+    },
+    {
+      "id": "/title/tt0094074/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt0094074/images/rm45618176",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+        "width": 998
+      },
+      "title": "Superman IV: The Quest for Peace",
+      "titleType": "movie",
+      "year": 1987
+    },
+    {
+      "id": "/title/tt0169590/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt0169590/images/rm2016087809",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQ3YWJhODMtYTdmNC00MmZiLThhOWYtM2UxZDBjNjRlY2EwXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg",
+        "width": 556
+      },
+      "title": "The Batman Superman Movie: World's Finest",
+      "titleType": "tvMovie",
+      "year": 1997
+    },
+    {
+      "id": "/title/tt0839995/",
+      "image": {
+        "height": 1200,
+        "id": "/title/tt0839995/images/rm4082767872",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDhiNzNhNmMtMjhiZS00Mjc4LWE5ZmEtZjg5YTY2M2FkZmNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 800
+      },
+      "title": "Superman II: The Richard Donner Cut",
+      "titleType": "movie",
+      "year": 1980
+    },
+    {
+      "id": "/title/tt0062544/",
+      "image": {
+        "height": 1873,
+        "id": "/title/tt0062544/images/rm703271425",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg5YTIzNjktZDU1MS00YmVhLWJjY2ItNWE5NjQ3Nzg1OTAwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1284
+      },
+      "title": "The Batman/Superman Hour",
+      "titleType": "tvSeries",
+      "year": 1968
+    },
+    {
+      "id": "/title/tt5950044/",
+      "title": "Untitled Superman Project",
+      "titleType": "movie",
+      "year": 2028
+    },
+    {
+      "id": "/title/tt14681924/",
+      "image": {
+        "height": 576,
+        "id": "/title/tt14681924/images/rm499828481",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQyZWRiNzEtYjM3Yi00ZmQwLWI3MWMtYTJjZjY4NTJmMTBjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "width": 1024
+      },
+      "title": "My Adventures with Superman",
+      "titleType": "tvSeries",
+      "year": 2023
+    },
+    {
+      "id": "/title/tt0044091/",
+      "image": {
+        "height": 1200,
+        "id": "/title/tt0044091/images/rm2088979200",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTI0MTVlNmUtYjg0MC00OWNkLTgzMjUtZDNiZTJkYzA5NzA2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "width": 782
+      },
+      "title": "Superman and the Mole-Men",
+      "titleType": "movie",
+      "year": 1951
+    },
+    {
+      "id": "/title/tt0040852/",
+      "image": {
+        "height": 2732,
+        "id": "/title/tt0040852/images/rm2229854977",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM5MjFlMzEtNzNkNC00OTZmLWExNTAtYWI2MTMyYjE3MTc1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+        "width": 1790
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1948
+    },
+    {
+      "id": "/title/tt0213370/",
+      "image": {
+        "height": 2560,
+        "id": "/title/tt0213370/images/rm1362097665",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODI4NzMtM2EzYS00ZGFlLThjMjgtODMyN2QwYjBkYTYwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 1920
+      },
+      "title": "Superman",
+      "titleType": "tvSeries",
+      "year": 1988
+    },
+    {
+      "id": "/title/tt0060012/",
+      "image": {
+        "height": 720,
+        "id": "/title/tt0060012/images/rm274593281",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTU4YzUwNGUtNjU3NC00ZTgxLTk1MmUtMDEzMDBmMjZlNTg5XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 540
+      },
+      "title": "The New Adventures of Superman",
+      "titleType": "tvSeries",
+      "year": 1966
+    }
+  ],
+  "totalMatches": 61
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "10179717-c066-4afa-bfa9-1aaec468b045",
+    "serviceTimeMs": 31.323518
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "2",
+  "results": [
+    {
+      "id": "/title/tt0392818/",
+      "image": {
+        "height": 482,
+        "id": "/title/tt0392818/images/rm681108736",
+        "url": "https://m.media-amazon.com/images/M/MV5BMGIyOTE2OGUtM2IzMi00YzlhLTgzOTctZWY3YmY4ODMwYjM4XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_.jpg",
+        "width": 340
+      },
+      "title": "The Return of Superman",
+      "titleType": "movie",
+      "year": 1979
+    },
+    {
+      "id": "/title/tt2753778/",
+      "image": {
+        "height": 900,
+        "id": "/title/tt2753778/images/rm3315395584",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzUyNDg1NV5BMl5BanBnXkFtZTgwMTQ0OTg4NjE@._V1_.jpg",
+        "width": 600
+      },
+      "title": "The Death of Superman Lives: What Happened?",
+      "titleType": "movie",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt0371968/",
+      "image": {
+        "height": 1633,
+        "id": "/title/tt0371968/images/rm4184477952",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTZkMTRhMTMtMmZmYS00ODE0LTljNDQtNWFiODZiZjVjNWRmXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+        "width": 1280
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1980
+    },
+    {
+      "id": "/title/tt0042211/",
+      "image": {
+        "height": 604,
+        "id": "/title/tt0042211/images/rm2889816832",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWVhM2Q5NWUtMTRhMy00MzhiLWI2Y2UtZDExNDZmMTM0MDhkXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+        "width": 450
+      },
+      "title": "Atom Man vs. Superman",
+      "titleType": "movie",
+      "year": 1950
+    },
+    {
+      "id": "/title/tt0339210/",
+      "image": {
+        "height": 480,
+        "id": "/title/tt0339210/images/rm3848816896",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzMxMzIwY2QtYjZmNy00MWUzLTkyZTQtNjBkMGVmMWNjZTQ4XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_.jpg",
+        "width": 237
+      },
+      "title": "It's a Bird... It's a Plane... It's Superman!",
+      "titleType": "tvMovie",
+      "year": 1975
+    },
+    {
+      "id": "/title/tt3209172/",
+      "image": {
+        "height": 375,
+        "id": "/title/tt3209172/images/rm4058512128",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI4MTU1MzU5OF5BMl5BanBnXkFtZTgwNTE1MjAxMzE@._V1_.jpg",
+        "width": 500
+      },
+      "title": "Superman",
+      "titleType": "tvSeries",
+      "year": 1948
+    },
+    {
+      "id": "/title/tt0297416/",
+      "image": {
+        "height": 708,
+        "id": "/title/tt0297416/images/rm536547584",
+        "url": "https://m.media-amazon.com/images/M/MV5BNWM3NjBhOGYtMzU5Ny00YjJkLTkxMTYtMTlkNThmN2YzZjJhXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+        "width": 488
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1987
+    },
+    {
+      "id": "/title/tt0061500/",
+      "image": {
+        "height": 500,
+        "id": "/title/tt0061500/images/rm2232338432",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY3MTgzMTYxNV5BMl5BanBnXkFtZTgwNTM1Mzk1MTE@._V1_.jpg",
+        "width": 375
+      },
+      "title": "Argoman the Fantastic Superman",
+      "titleType": "movie",
+      "year": 1967
+    },
+    {
+      "id": "/title/tt0062179/",
+      "image": {
+        "height": 1244,
+        "id": "/title/tt0062179/images/rm1829705216",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzZlNDQ5ZDMtNDA0Ny00MzVhLTk0OTUtMWNkODc4MDI5YWU4XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+        "width": 664
+      },
+      "title": "Superargo and the Faceless Giants",
+      "titleType": "movie",
+      "year": 1968
+    },
+    {
+      "id": "/title/tt0231046/",
+      "image": {
+        "height": 1608,
+        "id": "/title/tt0231046/images/rm767105024",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjRiYTAtNDJiZC00ODgyLWI4NDMtYzRmYjY3MjZjMmQ0XkEyXkFqcGdeQXVyNTQzMjAxMzA@._V1_.jpg",
+        "width": 1048
+      },
+      "title": "The Superman/Aquaman Hour of Adventure",
+      "titleType": "tvSeries",
+      "year": 1967
+    },
+    {
+      "id": "/title/tt0177267/",
+      "image": {
+        "height": 475,
+        "id": "/title/tt0177267/images/rm509320192",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQwNDYyNTEwMF5BMl5BanBnXkFtZTcwOTY5MDgyMQ@@._V1_.jpg",
+        "width": 271
+      },
+      "title": "Superman: The Last Son of Krypton",
+      "titleType": "tvMovie",
+      "year": 1996
+    },
+    {
+      "id": "/title/tt1667443/",
+      "image": {
+        "height": 700,
+        "id": "/title/tt1667443/images/rm2686812416",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1MDI1NTM2MF5BMl5BanBnXkFtZTcwMzkwNzk4Mw@@._V1_.jpg",
+        "width": 450
+      },
+      "title": "Superman: Requiem",
+      "titleType": "movie",
+      "year": 2011
+    },
+    {
+      "id": "/title/tt3215888/",
+      "image": {
+        "height": 1800,
+        "id": "/title/tt3215888/images/rm3511533057",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTY1M2U0ZTYtOGJiOC00ZjFlLWI1MTgtNzJmMTkyYzBmNmQzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "width": 1200
+      },
+      "title": "Superman: Red Son",
+      "titleType": "tvSeries",
+      "year": 2009
+    },
+    {
+      "id": "/title/tt0499516/",
+      "image": {
+        "height": 500,
+        "id": "/title/tt0499516/images/rm618855168",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg1MTk5MDYyOV5BMl5BanBnXkFtZTgwNzI5OTkwMzE@._V1_.jpg",
+        "width": 355
+      },
+      "title": "Look, Up in the Sky! The Amazing Story of Superman",
+      "titleType": "tvMovie",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt0420574/",
+      "image": {
+        "height": 750,
+        "id": "/title/tt0420574/images/rm2551713024",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDM0N2NmYjctMTI3ZC00NTQyLWI1YWMtZDBlNWJjYzBkMDlhXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_.jpg",
+        "width": 500
+      },
+      "title": "De Superman à Spider-Man: L'aventure des super-héros",
+      "titleType": "tvMovie",
+      "year": 2001
+    },
+    {
+      "id": "/title/tt0072744/",
+      "image": {
+        "height": 703,
+        "id": "/title/tt0072744/images/rm3716699136",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTRjMTRhZmYtYzQ3OS00ZTAxLTkwYzItNmNlZGQ2OTk3MTA4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+        "width": 516
+      },
+      "title": "Superdragon vs. Superman",
+      "titleType": "movie",
+      "year": 1975
+    },
+    {
+      "id": "/title/tt0303111/",
+      "image": {
+        "height": 322,
+        "id": "/title/tt0303111/images/rm4235136512",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQwZTVlOWUtODRhZi00YzYyLWE1ZGYtMGZlMjAyNWEzYTczXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+        "width": 468
+      },
+      "title": "Superman 50th Anniversary",
+      "titleType": "tvMovie",
+      "year": 1988
+    },
+    {
+      "id": "/title/tt0230834/",
+      "image": {
+        "height": 1500,
+        "id": "/title/tt0230834/images/rm2172485376",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWM4ODRhOTktM2JmNC00YWQzLWFlMDktYjc0MzUyODUzNDRiXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg",
+        "width": 1128
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1960
+    },
+    {
+      "id": "/title/tt2100612/",
+      "image": {
+        "height": 1024,
+        "id": "/title/tt2100612/images/rm3270107905",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTZjYzg4OWMtMDMzOS00YThkLWJmOWEtNWEwNTgxYmVkMmYzXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_.jpg",
+        "width": 683
+      },
+      "title": "Return of Mr. Superman",
+      "titleType": "movie",
+      "year": 1960
+    },
+    {
+      "id": "/title/tt0047545/",
+      "image": {
+        "height": 790,
+        "id": "/title/tt0047545/images/rm133570048",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2JlZWI1NDYtYTNlNi00MzQ5LTk5YjgtMjdiMzI4OWQ3YWFkXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+        "width": 520
+      },
+      "title": "Superman Flies Again",
+      "titleType": "movie",
+      "year": 1954
+    }
+  ],
+  "totalMatches": 61
+}
+,
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "f91a8d95-3c24-4dd0-a3f8-53ab536684fd",
+    "serviceTimeMs": 32.262579
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "paginationKey": "3",
+  "results": [
+    {
+      "id": "/title/tt3136854/",
+      "title": "Henry Cavill: Becoming Superman",
+      "titleType": "tvMovie",
+      "year": 2013
+    },
+    {
+      "id": "/title/tt0047547/",
+      "image": {
+        "height": 717,
+        "id": "/title/tt0047547/images/rm3226743808",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2U5ODc0ZjctMDQ1Yy00YWFkLThiMmYtNmQ5NjdjZjE1NTdkXkEyXkFqcGdeQXVyNjEwMTA0NTc@._V1_.jpg",
+        "width": 472
+      },
+      "title": "Superman in Exile",
+      "titleType": "movie",
+      "year": 1954
+    },
+    {
+      "id": "/title/tt0064375/",
+      "image": {
+        "height": 700,
+        "id": "/title/tt0064375/images/rm287180800",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDkxYjZjMDMtNWY1OC00NDllLTkwZjYtNzUyNjZkYTU1OWIxXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",
+        "width": 479
+      },
+      "title": "Goldface, the Fantastic Superman",
+      "titleType": "movie",
+      "year": 1967
+    },
+    {
+      "id": "/title/tt0047548/",
+      "image": {
+        "height": 516,
+        "id": "/title/tt0047548/images/rm3077790464",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjVhZDNiOWItZWU3ZS00NjQwLTliYzMtZmNjOTg2YjVhNjRhXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_.jpg",
+        "width": 256
+      },
+      "title": "Superman in Scotland Yard",
+      "titleType": "movie",
+      "year": 1954
+    },
+    {
+      "id": "/title/tt0047546/",
+      "image": {
+        "height": 2374,
+        "id": "/title/tt0047546/images/rm314544897",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTg0OWZmY2EtYjlmZS00ZWJhLWE1NWUtMDQxMTQxMmU2NDJjXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
+        "width": 1563
+      },
+      "title": "Superman and the Jungle Devil",
+      "titleType": "movie",
+      "year": 1954
+    },
+    {
+      "id": "/title/tt5009292/",
+      "title": "Superman",
+      "titleType": "tvSeries",
+      "year": 2015
+    },
+    {
+      "id": "/title/tt0070754/",
+      "image": {
+        "height": 300,
+        "id": "/title/tt0070754/images/rm1514577152",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTM5NDAxOV5BMl5BanBnXkFtZTcwNTk1NjkyMQ@@._V1_.jpg",
+        "width": 297
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1973
+    },
+    {
+      "id": "/title/tt0823154/",
+      "image": {
+        "height": 500,
+        "id": "/title/tt0823154/images/rm2716596992",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA3NzUyMjk1NDFeQTJeQWpwZ15BbWU4MDczMzc5MDMx._V1_.jpg",
+        "width": 343
+      },
+      "title": "The Science of Superman",
+      "titleType": "tvMovie",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt0047549/",
+      "image": {
+        "height": 1840,
+        "id": "/title/tt0047549/images/rm1206444801",
+        "url": "https://m.media-amazon.com/images/M/MV5BODUyOTkwOWItZDQ4MC00MTk1LWFjYjMtNjYwZDM5NGM1OTg3XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+        "width": 1238
+      },
+      "title": "Superman's Peril",
+      "titleType": "movie",
+      "year": 1954
+    },
+    {
+      "id": "/title/tt0296885/",
+      "image": {
+        "height": 960,
+        "id": "/title/tt0296885/images/rm4007351552",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2NkMmVjZjAtZjgxOC00NGNlLWI5NjUtMDE2MDUzOTM3YjNjXkEyXkFqcGdeQXVyNzE2MjU3Mzk@._V1_.jpg",
+        "width": 671
+      },
+      "title": "Superman",
+      "titleType": "movie",
+      "year": 1971
+    },
+    {
+      "id": "/title/tt0128651/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt0128651/images/rm2526813952",
+        "url": "https://m.media-amazon.com/images/M/MV5BNGU4OWU1NmEtNDg3OC00ZGI5LWI4MzYtMTgwYzJlZDk1ZmRhXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+        "width": 533
+      },
+      "title": "SuperAndy, il fratello brutto di Superman",
+      "titleType": "movie",
+      "year": 1979
+    },
+    {
+      "id": "/title/tt0319794/",
+      "image": {
+        "height": 900,
+        "id": "/title/tt0319794/images/rm100743936",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU2YTkyMjctMjRiNS00ZTBiLTgzMWMtMTZlYTBkZDc5YmM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+        "width": 1200
+      },
+      "title": "The Making of 'Superman II'",
+      "titleType": "tvMovie",
+      "year": 1982
+    },
+    {
+      "id": "/title/tt0319796/",
+      "image": {
+        "height": 840,
+        "id": "/title/tt0319796/images/rm3668196096",
+        "url": "https://m.media-amazon.com/images/M/MV5BODI1MWFlMzAtNTFjZC00Nzc5LTliYzAtMDZmNmFiNzU4MjBmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+        "width": 565
+      },
+      "title": "The Making of 'Superman: The Movie'",
+      "titleType": "tvMovie",
+      "year": 1980
+    },
+    {
+      "id": "/title/tt0830881/",
+      "image": {
+        "height": 140,
+        "id": "/title/tt0830881/images/rm3285143552",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTlkODM0ZWQtMjg1YS00YThmLWI1MmItNThkYTU4YjI4NGE0XkEyXkFqcGdeQXVyMzMxMDcyOTA@._V1_.jpg",
+        "width": 300
+      },
+      "title": "The Curse of Superman",
+      "titleType": "tvMovie",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt2294159/",
+      "image": {
+        "height": 1284,
+        "id": "/title/tt2294159/images/rm3278901249",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDNmNzM0YWQtNTA2OC00ZjI0LTgyZGUtMTQxNDRhYzU1ZGRhXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+        "width": 862
+      },
+      "title": "Superman of Tokyo",
+      "titleType": "tvMiniSeries",
+      "year": 2012
+    },
+    {
+      "id": "/title/tt3014394/",
+      "title": "Return to Supermans",
+      "titleType": "tvSeries",
+      "year": 2007
+    },
+    {
+      "id": "/title/tt0823171/",
+      "title": "Back in Blue: The 'Superman Returns' Movie Special",
+      "titleType": "tvMovie",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt0319795/",
+      "image": {
+        "height": 867,
+        "id": "/title/tt0319795/images/rm0080640",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2VjNzg1NDMtNzkyNC00MDI4LWFlMzYtMGU3MmFmMzE3NDU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+        "width": 565
+      },
+      "title": "The Making of 'Superman III'",
+      "titleType": "tvMovie",
+      "year": 1985
+    },
+    {
+      "id": "/title/tt0189267/",
+      "image": {
+        "height": 796,
+        "id": "/title/tt0189267/images/rm3290692609",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE0YzA0NzEtMTI3ZS00NThlLWJhYWQtOGQ4MGE2OGI1NzExXkEyXkFqcGdeQXVyNjE4OTY3NTg@._V1_.jpg",
+        "width": 795
+      },
+      "title": "Little Superman Gambaron",
+      "titleType": "tvSeries",
+      "year": 1977
+    },
+    {
+      "id": "/title/tt4620132/",
+      "image": {
+        "height": 6000,
+        "id": "/title/tt4620132/images/rm4037272833",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDRmM2U1ZmMtM2U2NC00ZjViLWFhNzAtMTg2YmJlNmMxYjVjXkEyXkFqcGdeQXVyNTk3NjcyNDc@._V1_.jpg",
+        "width": 4050
+      },
+      "title": "Shopping for Superman",
+      "titleType": "movie"
+    }
+  ],
+  "totalMatches": 61
+},
+
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "782eb3f0-6a0b-499c-8f14-8fd55fb27467",
+    "serviceTimeMs": 38.979875
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt0857407/",
+      "title": "Superman Returns: Inside the Journey",
+      "titleType": "tvMovie",
+      "year": 2006
+    }
+  ],
+  "totalMatches": 61
+}
+  ]
